@@ -1,0 +1,22 @@
+.wrapper{
+    width: 1000px;
+    height: 600px;
+    margin: 20px;
+}
+.names{
+    display: inline-block;
+    margin: 0px, 10px;
+    width: 950px;
+    height: 210px;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+h3{
+    margin: 0px, 60px;
+    padding: 0px 60px;
+    display: inline-block;
+}
